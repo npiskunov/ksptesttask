@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MultiThreadedQueue.Tests/obj/Debug
+/MultiThreadedQueue.Tests/bin/Debug
+/packages
+/MultihreadedQueue/obj/Debug
+/MultihreadedQueue/bin/Debug
+/ArrayCombinations.Tests/obj/Debug
+/ArrayCombinations.Tests/bin/Debug
+/ArrayCombinations/bin/Debug
+/ArrayCombinations/obj/Debug
